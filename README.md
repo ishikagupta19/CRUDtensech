@@ -53,4 +53,4 @@ POSTMAN:
 
 
 DOCKERIZATION:
-After creating DOCKER account, I can directly fetch the api, but due to insufficient knowledge of docker, I was unable to proceed further.
+Unfortunately, I don't have expertise in Docker at the moment, so I may not be able to proceed with DOCKER, at this moment.
